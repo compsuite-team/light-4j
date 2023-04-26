@@ -280,7 +280,7 @@
             <dependency>
                 <groupId>com.networknt</groupId>
                 <artifactId>switcher</artifactId>
-                <version>${project.version}</version>
+                <version>2.0.8</version>
             </dependency>
             <dependency>
                 <groupId>com.networknt</groupId>
